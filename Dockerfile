@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:stable
 
 LABEL maintainer Knut Ahlers <knut@ahlers.me>
 
